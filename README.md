@@ -5,6 +5,7 @@ I am Jobayer Ahmed
 - 🌱 I’m currently learning ... Typescript
 - <br/>
 - 📫 How to reach me: ... email: jobayer320721@gmail.com
+- - ⚡ Fun fact - I love to watch old TV series like Friends, How I Mate Your Mother and many more...
 <!--
 **ahmed-jobayer/ahmed-jobayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
