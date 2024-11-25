@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-<br/>
-# I am Jobayer Ahmed
-<br/>
+
+## I am Jobayer Ahmed
+
 <p>
 - 🌱 I’m currently learning - Typescript
 </p>
