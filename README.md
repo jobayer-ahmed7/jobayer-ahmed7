@@ -1,18 +1,13 @@
-## Hi there 👋
+### Hi there 👋
 
-<br/>
-# I am Jobayer Ahmed
-<br/>
-<p>
-- 🌱 I’m currently learning - Typescript
-</p>
-<p>
+## I am Jobayer Ahmed
 
-- 📫 How to reach me - jobayer320721@gmail.com
-</p>
-<p>
+:blush: 🌱 I’m currently learning - Typescript
 
-- ⚡ Fun fact - I love to watch old TV series like Friends, How I Mate Your Mother and many more...
+ 📫 How to reach me - <jobayer320721@gmail.com>
+
+ ⚡ Fun fact - I love to watch old TV series like Friends, How I Mate Your Mother and many more...
+
 </p>
 <!--
 **ahmed-jobayer/ahmed-jobayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
