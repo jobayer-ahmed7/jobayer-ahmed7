@@ -3,6 +3,7 @@
 ## I am Jobayer Ahmed
 
 :blush: 🌱 I’m currently learning - Typescript
+:blush: 🌱 I’m currently learning - Nextjs
 
  📫 How to reach me - <jobayer320721@gmail.com>
 
