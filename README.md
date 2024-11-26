@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Hi there 👋
 
 ## I am Jobayer Ahmed
@@ -9,6 +10,23 @@
 
  ⚡ Fun fact - I love to watch old TV series like Friends, How I Mate Your Mother and many more...
 
+=======
+## Hi there 👋
+
+
+## I am Jobayer Ahmed
+
+<p>
+- 🌱 I’m currently learning - Typescript
+</p>
+<p>
+
+- 📫 How to reach me - jobayer320721@gmail.com
+</p>
+<p>
+
+- ⚡ Fun fact - I love to watch old TV series like Friends, How I Mate Your Mother and many more...
+>>>>>>> 8bc1bc4ab7d43267a225cb2584df3b3b038abc40
 </p>
 <!--
 **ahmed-jobayer/ahmed-jobayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
