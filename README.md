@@ -1,16 +1,17 @@
 <!-- Banner Image -->
 ![Make your README](https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/Make%20your%20README.png)
 
-# Hi there! 👋 I'm Ahmed Jobayer  
+ 
 
-**Aspiring MERN Developer | Frontend Enthusiast | Tech Explorer**  
+# Aspiring MERN Developer | Frontend Enthusiast | Tech Explorer 
 
-I'm passionate about building responsive, user-friendly web applications and creating scalable solutions with modern JavaScript frameworks. I love learning new technologies, solving problems, and sharing my journey as a developer.  
 
----
 
-## 🚀 **Skills**
-- **Frontend**: React.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS  
+# Technologies I have worked on
+
+
+### Frontend
+  React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS  
 - **Backend**: Node.js, Express.js  
 - **Database**: MongoDB  
 - **Tools & Platforms**: Git, GitHub, VS Code, Vite, Postman  
@@ -18,7 +19,7 @@ I'm passionate about building responsive, user-friendly web applications and cre
 
 ---
 
-## 🌟 **Projects**
+<!-- ## 🌟 **Projects**
 ### **1. [Gadget Galaxy](#)**  
 An e-commerce website for selling gadgets. Features include:  
 - Interactive UI with React and Tailwind CSS  
@@ -26,7 +27,7 @@ An e-commerce website for selling gadgets. Features include:
 - User authentication and payment gateway integration  
 
 ### **2. [Portfolio Website](#)**  
-A personal portfolio showcasing my projects, skills, and experiences.  
+A personal portfolio showcasing my projects, skills, and experiences.   -->
 
 ---
 
