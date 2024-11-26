@@ -1,25 +1,50 @@
-<div>
-![alt](https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/Make%20your%20README.png)
-</div>
+<!-- Banner Image -->
+![Make your README](https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/Make%20your%20README.png)
 
-=======
-## Hi there 👋
+# Hi there! 👋 I'm Ahmed Jobayer  
 
+**Aspiring MERN Developer | Frontend Enthusiast | Tech Explorer**  
 
-## I am Jobayer Ahmed
+I'm passionate about building responsive, user-friendly web applications and creating scalable solutions with modern JavaScript frameworks. I love learning new technologies, solving problems, and sharing my journey as a developer.  
 
-<p>
-- 🌱 I’m currently learning - Typescript
-</p>
-<p>
+---
 
-- 📫 How to reach me - jobayer320721@gmail.com
-</p>
-<p>
+## 🚀 **Skills**
+- **Frontend**: React.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS  
+- **Backend**: Node.js, Express.js  
+- **Database**: MongoDB  
+- **Tools & Platforms**: Git, GitHub, VS Code, Vite, Postman  
+- **Currently Learning**: Next.js, Advanced TypeScript, Full-stack Optimization  
 
-- ⚡ Fun fact - I love to watch old TV series like Friends, How I Mate Your Mother and many more...
->>>>>>> 8bc1bc4ab7d43267a225cb2584df3b3b038abc40
-</p>
+---
+
+## 🌟 **Projects**
+### **1. [Gadget Galaxy](#)**  
+An e-commerce website for selling gadgets. Features include:  
+- Interactive UI with React and Tailwind CSS  
+- Backend API with Express.js and MongoDB  
+- User authentication and payment gateway integration  
+
+### **2. [Portfolio Website](#)**  
+A personal portfolio showcasing my projects, skills, and experiences.  
+
+---
+
+## 📚 **Education & Learning**  
+- Exploring **Next.js** for SSR and API optimizations.  
+- Improving **TypeScript** skills for better type safety in React apps.  
+
+---
+
+## 📫 **Connect with Me**  
+- **GitHub**: [github.com/ahmed-jobayer](https://github.com/ahmed-jobayer)  
+- **Email**: [your-email@example.com]  
+- **LinkedIn**: [linkedin.com/in/ahmed-jobayer](#)
+
+---
+
+Feel free to explore my repositories and connect! Let's collaborate and create amazing projects together. 🚀  
+
 <!--
 **ahmed-jobayer/ahmed-jobayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
