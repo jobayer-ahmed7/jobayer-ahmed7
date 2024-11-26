@@ -1,14 +1,6 @@
-<<<<<<< HEAD
-### Hi there 👋
-
-## I am Jobayer Ahmed
-
-:blush: 🌱 I’m currently learning - Typescript
-:blush: 🌱 I’m currently learning - Nextjs
-
- 📫 How to reach me - <jobayer320721@gmail.com>
-
- ⚡ Fun fact - I love to watch old TV series like Friends, How I Mate Your Mother and many more...
+<div>
+![alt](https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/Make%20your%20README.png)
+</div>
 
 =======
 ## Hi there 👋
