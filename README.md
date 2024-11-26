@@ -44,7 +44,7 @@ A personal portfolio showcasing my projects, skills, and experiences.   -->
 
 ## 📫 **Connect with Me**  
 - **GitHub**: [github.com/ahmed-jobayer](https://github.com/ahmed-jobayer)  
-- **Email**: [jobayer320721@gmail.com]  
+- **Email**: jobayer320721@gmail.com 
 - **LinkedIn**: [https://www.linkedin.com/in/ahmed-jobayer/](#)
 
 ---
