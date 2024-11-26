@@ -10,14 +10,14 @@
 # Technologies I have worked on
 
 
-<br>
 <p align="center">
-<img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/html.png"/>
-<img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/css.png"/>
-<img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/java-script.png"/>
-<img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/react.png"/>
-<img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/tailwind.png"/>
+  <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/html.png" alt="HTML" width="50" height="50"/>
+  <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/css.png" alt="CSS" width="50" height="50"/>
+  <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/java-script.png" alt="JavaScript" width="50" height="50"/>
+  <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/react.png" alt="React" width="50" height="50"/>
+  <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/tailwind.png" alt="Tailwind" width="50" height="50"/>
 </p>
+
 <p align="center">
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/redux.png"/>
