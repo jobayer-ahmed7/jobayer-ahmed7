@@ -10,14 +10,23 @@
 # Technologies I have worked on
 
 
-### Frontend
-  React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS  
-- **Backend**: Node.js, Express.js  
-- **Database**: MongoDB  
-- **Tools & Platforms**: Git, GitHub, VS Code, Vite, Postman  
-- **Currently Learning**: Next.js, Advanced TypeScript, Full-stack Optimization  
+<br>
+<p align="center">
+<img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/html.png"/>
+<img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/css.png"/>
+<img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/java-script.png"/>
+<img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/react.png"/>
+<img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/tailwind.png"/>
+</p>
+<p align="center">
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/redux.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/sass.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
+</p>
 
----
 
 <!-- ## 🌟 **Projects**
 ### **1. [Gadget Galaxy](#)**  
