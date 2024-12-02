@@ -35,9 +35,9 @@
 - **LinkedIn**: [https://www.linkedin.com/in/ahmed-jobayer/](#)
 
 ---
-<div style="text-align: center;">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmed-jobayer&theme=dark&hide_border=true" alt="GitHub Streak Stats">
-</div>
+</p>
 
 Feel free to explore my repositories and connect! Let's collaborate and create amazing projects together. 🚀
 
