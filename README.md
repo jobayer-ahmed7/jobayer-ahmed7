@@ -1,14 +1,10 @@
 <!-- Banner Image -->
+
 ![Make your README](https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/Make%20your%20README.png)
 
- 
-
-# Aspiring MERN Developer | Frontend Enthusiast | Tech Explorer 
-
-
+# Aspiring MERN Developer | Frontend Enthusiast | Tech Explorer
 
 # Technologies I have worked on
-
 
 <p align="center">
   <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/html.png" alt="HTML" width="50" height="50"/>
@@ -24,34 +20,36 @@
   <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/express.png" alt="JavaScript" width="50" height="50"/>
 
 ---
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-jobayer&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
 
 ## 📚 **Education & Learning**  
 - Exploring **Next.js** for SSR and API optimizations.  
-- Improving **TypeScript** skills for better type safety in React apps.  
+- Improving **TypeScript** skills for better type safety in React apps.
 
 ---
 
-## 📫 **Connect with Me**  
-- **GitHub**: [github.com/ahmed-jobayer](https://github.com/ahmed-jobayer)  
-- **Email**: jobayer320721@gmail.com 
+## 📫 **Connect with Me**
+
+- **GitHub**: [github.com/ahmed-jobayer](https://github.com/ahmed-jobayer)
+- **Email**: jobayer320721@gmail.com
 - **LinkedIn**: [https://www.linkedin.com/in/ahmed-jobayer/](#)
 
 ---
+<div style="text-align: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmed-jobayer&theme=dark&hide_border=true" alt="GitHub Streak Stats">
+</div>
 
-Feel free to explore my repositories and connect! Let's collaborate and create amazing projects together. 🚀  
+Feel free to explore my repositories and connect! Let's collaborate and create amazing projects together. 🚀
 
 <!-- ## 🌟 **Projects**
-### **1. [Gadget Galaxy](#)**  
-An e-commerce website for selling gadgets. Features include:  
-- Interactive UI with React and Tailwind CSS  
-- Backend API with Express.js and MongoDB  
-- User authentication and payment gateway integration  
+### **1. [Gadget Galaxy](#)**
+An e-commerce website for selling gadgets. Features include:
+- Interactive UI with React and Tailwind CSS
+- Backend API with Express.js and MongoDB
+- User authentication and payment gateway integration
 
-<!-- ### **2. [Portfolio Website](#)**  
+<!-- ### **2. [Portfolio Website](#)**
 A personal portfolio showcasing my projects, skills, and experiences.   -->
-
 
 <!--
 **ahmed-jobayer/ahmed-jobayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
