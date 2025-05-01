@@ -7,17 +7,28 @@
 # Technologies I have worked on
 
 <p align="center">
-  <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/html.png" alt="HTML" width="50" height="50"/>
-  <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/css.png" alt="CSS" width="50" height="50"/>
-  <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/java-script.png" alt="JavaScript" width="50" height="50"/>
-  <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/react.png" alt="React" width="50" height="50"/>
-  <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/tailwind.png" alt="Tailwind" width="50" height="50"/>
+  <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/nextjs-icon.svg" alt="Next.js" width="50" height="50"/>
+  <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/typescriptlang-icon.svg" alt="Typescript" width="50" height="50"/>
+  <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/reactjs-icon.svg" alt="React" width="50" height="50"/>
+  <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/nodejs-icon.svg" alt="Node" width="50" height="50"/>
 </p>
 
 <p align="center">
- <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/node.png" alt="HTML" width="50" height="50"/>
-  <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/mongodb%20.png" alt="CSS" width="50" height="50"/>
-  <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/express.png" alt="JavaScript" width="50" height="50"/>
+  <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/js_redux-icon.svg" alt="Redux" width="50" height="50"/>
+  <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/expressjs-icon.svg" alt="Express" width="50" height="50"/>
+  <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/mongodb-icon.svg" alt="MongoDB" width="50" height="50"/>
+  <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/mongoose.svg" alt="Mongoose" width="50" height="50"/>
+  <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/>
+  <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/w3_html5-icon.svg" alt="HTML" width="50" height="50"/>
+  <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/javascript-icon.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/w3_css-official.svg" alt="CSS" width="50" height="50"/>
+</p>
+
+
 
 ---
 
@@ -31,7 +42,7 @@
 ## 📫 **Connect with Me**
 
 - **GitHub**: [github.com/ahmed-jobayer](https://github.com/ahmed-jobayer)
-- **Email**: jobayer320721@gmail.com
+- **Email**: jobayerahm7@gmail.com
 - **LinkedIn**: [https://www.linkedin.com/in/ahmed-jobayer/](#)
 
 ---
