@@ -15,7 +15,7 @@
 
 <p align="center">
   <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/js_redux-icon.svg" alt="Redux" width="50" height="50"/>
-  <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/expressjs-icon.svg" alt="Express" width="50" height="50"/>
+  <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/expressjs-icon.svg.png" alt="Express" width="50" height="50"/>
   <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/mongodb-icon.svg" alt="MongoDB" width="50" height="50"/>
   <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/mongoose.svg" alt="Mongoose" width="50" height="50"/>
   <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
