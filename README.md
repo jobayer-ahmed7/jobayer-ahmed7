@@ -2,7 +2,7 @@
 
 ![Make your README](https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/Make%20your%20README.png)
 
-# Aspiring MERN Developer | Frontend Enthusiast | Tech Explorer
+# Junior Full Stack Developer | Next.js & MERN Stack | Tech Explorer
 
 # Technologies I have worked on
 
@@ -33,17 +33,12 @@
 ---
 
 
-## 📚 **Education & Learning**  
-- Exploring **Next.js** for SSR and API optimizations.  
-- Improving **TypeScript** skills for better type safety in React apps.
-
----
 
 ## 📫 **Connect with Me**
 
 - **GitHub**: [github.com/ahmed-jobayer](https://github.com/ahmed-jobayer)
 - **Email**: jobayerahm7@gmail.com
-- **LinkedIn**: [https://www.linkedin.com/in/ahmed-jobayer/](#)
+- **LinkedIn**: [https://www.linkedin.com/in/ahmed-jobayer/](https://www.linkedin.com/in/ahmed-jobayer)
 
 ---
 <p align="center">
