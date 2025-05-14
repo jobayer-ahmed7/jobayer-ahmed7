@@ -52,14 +52,14 @@ I'm a passionate Full Stack Developer specializing in building web applications 
 
 <p align="center">
   <a href="https://github.com/ahmed-jobayer" target="_blank">
-    <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/github.png" alt="GitHub" width="50" height="50" style="margin: 0 15px;"/>
-  </a>
+    <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/github.png" alt="GitHub" width="50" height="50" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:jobayerahm7@gmail.com" target="_blank">
-    <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/email.png" alt="Email" width="50" height="50" style="margin: 0 15px;"/>
-  </a>
+    <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/email.png" alt="Email" width="50" height="50"/>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jobayerahmmed7/" target="_blank">
-    <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/linkedin.png" alt="LinkedIn" width="50" height="50" style="margin: 0 15px;"/>
-  </a>
+    <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/linkedin.png" alt="LinkedIn" width="50" height="50"/>
+  </a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <!-- - **GitHub**: [github.com/ahmed-jobayer](https://github.com/ahmed-jobayer)
