@@ -36,6 +36,13 @@ I'm a passionate Full Stack Developer specializing in building web applications 
 
 ---
 
+## 📜 Certifications
+
+- ✅ Complete Web Development Course – Programming Hero (2024)
+- ✅ Next Level Web Development – (2024–2025)
+
+---
+
 ## 🎓 **Education**
 
 - **Bachelor’s in Finance**  
