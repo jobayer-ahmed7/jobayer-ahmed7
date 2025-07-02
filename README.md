@@ -38,31 +38,31 @@ I'm a passionate Full Stack Developer specializing in building web applications 
 
 ## 📜 Certifications
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 1rem;">
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;  margin-bottom: 1rem">
   <p>✅ Complete Web Development Course – Programming Hero (2024)</p>
   <a href="https://drive.google.com/file/d/1d1eEB6kHdadp1e52J6eb-SZBlGJq2ArN/view?usp=sharing" target="_blank">
     View Certificate
   </a>
 </div>
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 1rem;">
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; ">
   <p>✅ Next Level Web Development – (2024–2025)</p>
   <a href="https://drive.google.com/file/d/1f63T2DFifAQiZGAfHBJMwBvlB14Ytd78/view?usp=sharing" target="_blank">
     View Certificate
   </a>
 </div>
- 
+
 
 ---
 
 ## 🎓 **Education**
 
 - **Bachelor’s in Finance**  
-  *Sirajganj Government College, Sirajganj*  
-  📅 *Season: 2022 – 2023*
+  _Sirajganj Government College, Sirajganj_  
+  📅 _Season: 2022 – 2023_
 
 - **Higher Secondary Certificate (Science)**  
-  *Govt. Tolaram College, Narayanganj*  
-  🎓 *GPA: 5.00 | Year: 2022*
+  _Govt. Tolaram College, Narayanganj_  
+  🎓 _GPA: 5.00 | Year: 2022_
 
 ---
 
@@ -85,6 +85,7 @@ I'm a passionate Full Stack Developer specializing in building web applications 
 - **LinkedIn**: [https://www.linkedin.com/in/ahmed-jobayer/](https://www.linkedin.com/in/ahmed-jobayer) -->
 
 ---
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmed-jobayer&theme=dark&hide_border=true" alt="GitHub Streak Stats">
 </p>
