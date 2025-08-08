@@ -1,38 +1,52 @@
 <!-- Banner Image -->
 
-![Make your README](https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/Make%20your%20README.png)
+![Make your README](https://github.com/jobayer-ahmed7/jobayer-ahmed7/blob/main/images/Make%20your%20README.png)
 
 # Junior Full Stack Developer | Next.js & MERN Stack | Tech Explorer
 
-# Technologies I have worked on
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jobayer-ahmed7&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/jobayer-ahmed7?label=Followers&style=social" alt="GitHub followers" />
+</div>
 
-<p align="center">
-  <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/nextjs-icon.svg" alt="Next.js" width="50" height="50"/>
-  <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/typescriptlang-icon.svg" alt="Typescript" width="50" height="50"/>
-  <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/reactjs-icon.svg" alt="React" width="50" height="50"/>
-  <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/nodejs-icon.svg" alt="Node" width="50" height="50"/>
-</p>
+## 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/js_redux-icon.svg" alt="Redux" width="50" height="50"/>
-  <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/expressjs-icon.svg.png" alt="Express" width="50" height="50"/>
-  <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/mongodb-icon.svg" alt="MongoDB" width="50" height="50"/>
-  <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/mongoose.svg" alt="Mongoose" width="50" height="50"/>
-  <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
-</p>
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<p align="center">
-  <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/>
-  <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/w3_html5-icon.svg" alt="HTML" width="50" height="50"/>
-  <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/javascript-icon.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/w3_css-official.svg" alt="CSS" width="50" height="50"/>
-</p>
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+
+### Tools & Others
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+
 
 ## 👨‍💻 About Me
 
 I'm a passionate Full Stack Developer specializing in building web applications using the MERN and Next.js stack. I love solving real-world problems through clean, maintainable code and continuously learning new technologies.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jobayer-ahmed7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobayer-ahmed7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+</div>
 
 ---
 
@@ -58,28 +72,27 @@ I'm a passionate Full Stack Developer specializing in building web applications 
 
 ---
 
-## 📫 **Connect with Me**
+## 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://github.com/jobayer-ahmed7" target="_blank">
-    <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/github.png" alt="GitHub" width="50" height="50" />
-  </a>&nbsp;&nbsp;&nbsp;
+<div align="center">
+  <a href="https://linkedin.com/in/jobayerahmmed7" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="mailto:jobayerahm7@gmail.com" target="_blank">
-    <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/email.png" alt="Email" width="50" height="50"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/jobayerahmmed7/" target="_blank">
-    <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/linkedin.png" alt="LinkedIn" width="50" height="50"/>
-  </a>&nbsp;&nbsp;&nbsp;
-</p>
-
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/jobayer-ahmed7" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
 
 ---
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jobayer-ahmed7&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jobayer-ahmed7&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
-Feel free to explore my repositories and connect! Let's collaborate and create amazing projects together. 🚀
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</div>
 
