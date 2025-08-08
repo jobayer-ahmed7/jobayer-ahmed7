@@ -61,7 +61,7 @@ I'm a passionate Full Stack Developer specializing in building web applications 
 ## 📫 **Connect with Me**
 
 <p align="center">
-  <a href="https://github.com/ahmed-jobayer" target="_blank">
+  <a href="https://github.com/jobayer-ahmed7" target="_blank">
     <img src="https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/github.png" alt="GitHub" width="50" height="50" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:jobayerahm7@gmail.com" target="_blank">
