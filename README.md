@@ -1,8 +1,10 @@
 <!-- Banner Image -->
 
-![Make your README](https://github.com/jobayer-ahmed7/jobayer-ahmed7/blob/main/images/Make%20your%20README.png)
+![Make your README](https://github.com/ahmed-jobayer/ahmed-jobayer/blob/main/images/Make%20your%20README.png)
 
-# Junior Full Stack Developer | Next.js & MERN Stack | Tech Explorer
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Junior+Full+Stack+Developer;Next.js+%26+MERN+Stack+Developer;Tech+Explorer+%26+Problem+Solver;Building+Amazing+Web+Applications" alt="Typing SVG" />
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jobayer-ahmed7&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -32,8 +34,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
----
 
+---
 
 ## 👨‍💻 About Me
 
