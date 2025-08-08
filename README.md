@@ -72,58 +72,14 @@ I'm a passionate Full Stack Developer specializing in building web applications 
   </a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<!-- - **GitHub**: [github.com/ahmed-jobayer](https://github.com/ahmed-jobayer)
-- **Email**: jobayerahm7@gmail.com
-- **LinkedIn**: [https://www.linkedin.com/in/ahmed-jobayer/](https://www.linkedin.com/in/ahmed-jobayer) -->
 
 ---
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jobayer-ahmed7&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmed-jobayer&theme=dark&hide_border=true" alt="GitHub Streak Stats">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jobayer-ahmed7&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 Feel free to explore my repositories and connect! Let's collaborate and create amazing projects together. 🚀
 
-<!-- ## 🌟 **Projects**
-### **1. [Gadget Galaxy](#)**
-An e-commerce website for selling gadgets. Features include:
-- Interactive UI with React and Tailwind CSS
-- Backend API with Express.js and MongoDB
-- User authentication and payment gateway integration
-
-<!-- ### **2. [Portfolio Website](#)**
-A personal portfolio showcasing my projects, skills, and experiences.   -->
-
-<!--
-**ahmed-jobayer/ahmed-jobayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
-
-
-
-
-
-
-
-
-
-
-
-
-Zfeel Pure Dry Fit Poly Shirt for Men, 4 Pack Short Sleeve Crewneck 100 Polyester T-Shirt, S
-Zfeel Pure Dry Fit Poly Shirt for Men, 4 Pack Short Sleeve Crewneck 100 Polyester T-Shirt, M
-Zfeel Pure Dry Fit Poly Shirt for Men, 4 Pack Short Sleeve Crewneck 100 Polyester T-Shirt, L
-Zfeel Pure Dry Fit Poly Shirt for Men, 4 Pack Short Sleeve Crewneck 100 Polyester T-Shirt, XL
-Zfeel Pure Dry Fit Poly Shirt for Men, 4 Pack Short Sleeve Crewneck 100 Polyester T-Shirt, 2XL
-Zfeel Pure Dry Fit Poly Shirt for Men, 4 Pack Short Sleeve Crewneck 100 Polyester T-Shirt, 3XL
-Zfeel Pure Dry Fit Poly Shirt for Men, 4 Pack Short Sleeve Crewneck 100 Polyester T-Shirt, 4XL
