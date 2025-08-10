@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Junior+Full+Stack+Developer;Next.js+%26+MERN+Stack+Developer;Tech+Explorer+%26+Problem+Solver;Building+Amazing+Web+Applications" alt="Typing SVG" />
 </div>
-
+<br/>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jobayer-ahmed7&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/jobayer-ahmed7?label=Followers&style=social" alt="GitHub followers" />
@@ -44,7 +44,7 @@
 
 I'm a passionate Full Stack Developer specializing in building web applications using the MERN and Next.js stack. I love solving real-world problems through clean, maintainable code and continuously learning new technologies.
 
----
+<br/>
 
 ## 📊 GitHub Stats
 
@@ -75,7 +75,7 @@ I'm a passionate Full Stack Developer specializing in building web applications 
   _Govt. Tolaram College, Narayanganj_  
   🎓 _GPA: 5.00 | Year: 2022_
 
----
+
 
 ## 🤝 Let's Connect
 
@@ -92,7 +92,7 @@ I'm a passionate Full Stack Developer specializing in building web applications 
 </div>
 
 ---
-
+<br/>
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jobayer-ahmed7&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </p>
