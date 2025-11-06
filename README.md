@@ -69,7 +69,7 @@ I'm a passionate Full Stack Developer specializing in building web applications 
 
 - **Bachelor’s in Finance**  
   _Sirajganj Government College, Sirajganj_  
-  📅 _Season: 2022 – 2023_
+  📅 _Season: 2022 – 2023_ (Ongoing) 
 
 - **Higher Secondary Certificate (Science)**  
   _Govt. Tolaram College, Narayanganj_  
@@ -94,7 +94,7 @@ I'm a passionate Full Stack Developer specializing in building web applications 
 ---
 <br/>
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jobayer-ahmed7&theme=dark&hide_border=true&exclude_days=Sun" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jobayer-ahmed7&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 <div align="center">
